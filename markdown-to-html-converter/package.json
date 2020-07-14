@@ -1,0 +1,53 @@
+{
+  "_from": "markdown-to-html-converter",
+  "_id": "markdown-to-html-converter@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha1-LWBAbpoY/wy9upQQVStoq9TmElI=",
+  "_location": "/markdown-to-html-converter",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "markdown-to-html-converter",
+    "name": "markdown-to-html-converter",
+    "escapedName": "markdown-to-html-converter",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/markdown-to-html-converter/-/markdown-to-html-converter-1.0.4.tgz",
+  "_shasum": "2d60406e9a18ff0cbdba9410552b68abd4e61252",
+  "_spec": "markdown-to-html-converter",
+  "_where": "/home/k/Proyectos/backend/node/cms-md",
+  "author": {
+    "name": "Elliott May Brooks"
+  },
+  "bugs": {
+    "url": "https://github.com/elliette/markdown-to-html-converter/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A simple Markdown to HTML converter.",
+  "homepage": "https://github.com/elliette/markdown-to-html-converter#readme",
+  "keywords": [
+    "markdown",
+    "html",
+    "converter",
+    "parser"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "markdown-to-html-converter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliette/markdown-to-html-converter.git"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "version": "1.0.4"
+}
